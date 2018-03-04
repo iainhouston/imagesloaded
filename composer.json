@@ -1,19 +1,4 @@
 {
-  "name": "desandro/imagesloaded",
-  "description": "JavaScript is all like _You images done yet or what?_",
-  "type": "component",
-  "keywords": ["javascript", "library", "images", "loaded", "dom", "ui", "jquery-plugin"],
-  "homepage": "http://imagesloaded.desandro.com",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "David DeSandro",
-      "homepage": "http://desandro.com/",
-      "role": "developer"
-    }
-  ]
-}
-{
   "name": "iainhouston/imagesloaded",
   "extra": {
     "installer-name": "imagesloaded"
@@ -28,6 +13,7 @@
     {
     "name": "Iain Houston",
     "email": "iainhouston@mac.com",
+    "homepage": "https://iainhouston.com/",
     "role": "forker"
     },
     {
