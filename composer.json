@@ -13,3 +13,28 @@
     }
   ]
 }
+{
+  "name": "iainhouston/imagesloaded",
+  "extra": {
+    "installer-name": "imagesloaded"
+  },
+  "description": "Misfits menu jquery javascript as a Drupal library.",
+  "type": "drupal-library",
+  "license": "MIT",
+  "keywords": ["javascript", "library", "images", "loaded", "dom", "ui", "jquery-plugin"],
+  "homepage": "http://imagesloaded.desandro.com",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+    "name": "Iain Houston",
+    "email": "iainhouston@mac.com",
+    "role": "forker"
+    },
+    {
+    "name": "David DeSandro",
+    "homepage": "http://desandro.com/",
+    "role": "developer"
+    } 
+  ],
+  "require": {}
+  }
